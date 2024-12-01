@@ -28,5 +28,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Author: Your Name
-- Email: you@example.com
+- Author: vestar
+- Email:vestarstudio@outlook.com
